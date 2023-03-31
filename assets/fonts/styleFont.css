@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Kanit-Regular'), url(kanit/Kanit-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Kanit-Medium'), url(kanit/Kanit-Medium.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Kanit-SemiBold'), url(kanit/Kanit-SemiBold.ttf) format('truetype');
+}
